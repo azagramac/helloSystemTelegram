@@ -9,9 +9,7 @@
     sudo apt upgrade -y
     sudo apt curl -y
 
-### Edit hello.service
-Edit the hello.service file to change the path where you have the hello.sh script.
-
+### Edit hello.service file to change the path where you have the hello.sh script.
     ExecStart=/usr/bin/bash	/root/hello.sh
 
 ### Copy the hello.service and assign it the permissions 0644
