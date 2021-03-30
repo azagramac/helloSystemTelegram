@@ -3,6 +3,9 @@
 ### Requeriments
 - Raspberry Pi / NanoPi
 - [Raspbian OS](https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit) / [DietPi](https://dietpi.com/#download) / [ARMbian](https://www.armbian.com/download/)
+- Token and chat_id of your telegram bot, you can request them here from Telegram App: 
+- Bot token: https://t.me/botfather
+- Chat_ID: https://t.me/myidbot
 
 ### Install packages
     sudo apt update
