@@ -1,0 +1,10 @@
+[Unit]
+Description=Send message telegram on boot
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/bash	/root/hello.sh
+
+[Install]
+WantedBy=multi-user.target
