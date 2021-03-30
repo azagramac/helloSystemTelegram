@@ -26,9 +26,7 @@ Edit the hello.service file to change the path where you have the hello.sh scrip
     chmod a+x /root/hello.sh
 
 ### Ready!
-Sample for NanoPi:
 ![NanoPi](https://github.com/AzagraMac/helloSystemTelegram/blob/master/res/msg_nanopi.png)
 
-Sample for RaspberryPi:
 ![RaspberryPi](https://github.com/AzagraMac/helloSystemTelegram/blob/master/res/msg_raspberrypi.png)
 
